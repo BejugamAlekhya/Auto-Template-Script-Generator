@@ -7,7 +7,7 @@ st.markdown("""
 Use the buttons below to run specific automation tasks related to test script and data generation:
 """)
 st.markdown("""
-- **Generate All**: Runs both test script and Excel data generation together.
+- **Generate All**: Generates the both Test script and Excel data.
 - **Test data generator**: Generates the Excel data only.
 - **Test script generator**: Generates the test scripts only.
 """)
